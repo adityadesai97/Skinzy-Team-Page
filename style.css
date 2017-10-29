@@ -17,6 +17,8 @@
   padding-top: 75px;
 }
 
+nav-link {}
+
 .card-img-overlay {
   background: linear-gradient(transparent 50%,#191919);
   text-align: left;
